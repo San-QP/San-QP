@@ -1,4 +1,4 @@
-### Hi I'm San, 👋
+![Hi, I'm San.](/github-banner.png)
 
 <!--
 **San-QP/San-QP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
