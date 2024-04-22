@@ -8,10 +8,10 @@
 
 ## Skills
 ### Development
+![image](https://github.com/San-QP/San-QP/assets/151630667/2046478a-0e6b-4d01-99db-1474e5fbd1fc)
+
 ![Git](https://github.com/San-QP/San-QP/assets/151630667/e6544044-7310-4808-835b-ec7e5f6a4ca7)
 ![Javascript](https://github.com/San-QP/San-QP/assets/151630667/f27dfcc0-aede-4660-8bd0-6f95d38c9ab8)
-![image](https://github.com/San-QP/San-QP/assets/151630667/d5610b0c-81a1-4930-b4ee-01fccc936813)
-
 ![ReactJs](https://github.com/San-QP/San-QP/assets/151630667/e69e1d16-397c-4ed7-9eae-7155d42202b9)
 ![Vite](https://github.com/San-QP/San-QP/assets/151630667/dafeeb96-5750-4fde-839d-3ec27c6a59e5)
 ![NodeJS](https://github.com/San-QP/San-QP/assets/151630667/661f1ead-e161-44d1-b596-30dde195bd9d)
