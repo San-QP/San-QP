@@ -8,20 +8,22 @@
 
 ## Skills
 ### Development
-![Git](/assets/git-colored.svg)
-![Javascript](/assets/javascript-colored.svg)
-![ReactJs](/assets/react-colored.svg)
-![Vite](/assets/vite-colored.svg)
-![NodeJS](/assets/nodejs-colored.svg)
-![HTML5](/assets/html5-colored.svg)
-![CSS](/assets/css3-colored.svg)
-![Tailwind](/assets/tailwindcss-colored.svg)
-![Bootstrap](/assets/bootstrap-colored.svg)
-![Mui](/assets/materialui-colored.svg)
-![Java](/assets/java-colored.svg)
-![MySQL](/assets/mysql-colored.svg)
-![Postgresql](/assets/postgresql-colored.svg)
-![MongoDB](/assets/mongodb-colored.svg)
+<p>
+<img src="/assets/git-colored.svg" width="36" height="36" alt="Git" style="max-width: 100%;">
+<img src="/assets/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;">
+<img src="/assets/react-colored.svg" width="36" height="36" alt="ReactJs" style="max-width: 100%;">
+<img src="/assets/vite-colored.svg" width="36" height="36" alt="Vite" style="max-width: 100%;">
+<img src="/assets/nodejs-colored.svg" width="36" height="36" alt="NodeJs" style="max-width: 100%;">
+<img src="/assets/html5-colored.svg" width="36" height="36" alt="HTML" style="max-width: 100%;">
+<img src="/assets/css3-colored.svg" width="36" height="36" alt="css" style="max-width: 100%;">
+<img src="/assets/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" style="max-width: 100%;">
+<img src="/assets/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;">
+<img src="/assets/materialui-colored.svg" width="36" height="36" alt="MUI" style="max-width: 100%;">
+<img src="/assets/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;">
+<img src="/assets/mysql-colored.svg" width="36" height="36" alt="MySql" style="max-width: 100%;">
+<img src="/assets/postgresql-colored.svg" width="36" height="36" alt="Postgresql" style="max-width: 100%;">
+<img src="/assets/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="max-width: 100%;">
+</p>
 
 ### Design
 ![Figma](/assets/figma-colored.svg)
