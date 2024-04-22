@@ -26,8 +26,11 @@
 </p>
 
 ### Design
-![Figma](/assets/figma-colored.svg)
-![Illustrator](/assets/illustrator-colored.svg)
-![Photoshop](/assets/photoshop-colored.svg)
-![AfterEffects](/assets/aftereffects-colored.svg)
-![AdobeXD](/assets/xd-colored.svg)
+
+<p>
+<img src="/assets/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;">
+<img src="/assets/illustrator-colored.svg" width="36" height="36" alt="Illustrator" style="max-width: 100%;">
+<img src="/assets/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="max-width: 100%;">
+<img src="/assets/aftereffects-colored.svg" width="36" height="36" alt="After Effects" style="max-width: 100%;">
+<img src="/assets/xd-colored.svg" width="36" height="36" alt="Adobe XD" style="max-width: 100%;">
+</p>
